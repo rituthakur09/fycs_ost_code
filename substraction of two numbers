@@ -1,0 +1,4 @@
+num1=int(input("ENTER THE FIRST NUMBER:"))
+num2=int(input("ENTER THE SECOND NUMBER:"))
+sub=num1-num2
+print("THE SUBSTRACTION OF TWO NUMBERS IS ",sub)
